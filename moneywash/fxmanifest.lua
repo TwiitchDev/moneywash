@@ -8,7 +8,7 @@ game 'gta5'
 
 author 'Twiitch'
 
-description 'SERP moneywash'
+description 'moneywash'
 
 version '0.2'
 
